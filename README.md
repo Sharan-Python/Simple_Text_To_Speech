@@ -8,6 +8,6 @@ This will open a simple tkinter GUI where you can type your text and press speak
 ### Possible errors
 This code should work without errors, I tested it myself, however errors can still occur if one or more of these conditions are met
 
-1- No speaker is found:Connect a speaker and restart Main.py
+1- No speaker is found : Connect a speaker and restart Main.py
 
-2- Package did not get installed properly:Use pip uninstall pyttsx3 and install it again without doing anything weird.
+2- Package did not get installed properly : Use pip uninstall pyttsx3 and install it again without doing anything weird.
