@@ -4,7 +4,8 @@ Very simple python code to convert text to speech with tkinter GUI
 The text to speech package used is called "pyttsx3", to install it go to your terminal and type "pip install pyttsx3"
 ### How to use
 Once you are done installing the packages, run Main.py 
-This will open a simple tkinter GUI where you can type your text and press speak, it will speak the text given.
+This will open a simple tkinter GUI where you can type your text and press speak, it will speak the text given. You may delete the text and type something else and press speak again to speak the new text, without having to restart the program.
+
 ### Possible errors
 This code should work without errors, I tested it myself, however errors can still occur if one or more of these conditions are met
 
